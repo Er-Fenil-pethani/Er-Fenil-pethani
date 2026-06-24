@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Fenil Pethani</h1>
+<h1 align="center">Hi, I'm Fenil Pethani</h1>
 
 <h3 align="center">Backend Developer | Node.js | Express.js | Prisma | PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Avtara+Fashion-Tech+Platform;Node.js+%7C+Express+%7C+Prisma;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+SQL;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## About Me
 
-* Backend Developer who enjoys solving problems with code
+* Currently Working At EquitySoft Technologies s Backend Developer
+* Studied B.Tech as Artificial Intelligence & Data Science Student
 * Focused on APIs, databases, and scalable applications
 * Learning something new with every project
-* "Building today, improving tomorrow..."
+* "Building today, improving everyday..."
 
 
 
